@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eng.Ali Saleh</h1>
-<h3 align="center">I'M Web front-end Development</h3>
+<h3 align="center"> Web front-end Development</h3>
 
 - 🔭  currently working on [Freelance platforms](https://mostaql.com/u/Ali_Saleh9/portfolio)
 
