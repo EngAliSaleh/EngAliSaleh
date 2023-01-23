@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eng.Ali Saleh</h1>
 <h3 align="center">I'M Web front-end Development</h3>
 
-- 🔭 I’m currently working on [Freelance platforms](https://mostaql.com/u/Ali_Saleh9/portfolio)
+- 🔭  currently working on [Freelance platforms](https://mostaql.com/u/Ali_Saleh9/portfolio)
 
 - 💬 Ask me about **HTML-CSS-javascript-Boot strap-phplaravel-MYSQl_Databases**
 
