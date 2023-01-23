@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Freelance platforms](https://mostaql.com/u/Ali_Saleh9/portfolio)
 
-- 💬 Ask me about **HTml-CSS-javascript-Boot strap-phplaravel-MYSQl_Databases**
+- 💬 Ask me about **HTML-CSS-javascript-Boot strap-phplaravel-MYSQl_Databases**
 
 - 📫 How to reach me **xxxxen709@gmail.com**
 
