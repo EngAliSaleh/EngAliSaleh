@@ -25,4 +25,4 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
   
-<img src="https://cdn.dribbble.com/users/1889486/screenshots/5081642/media/033846767947e74e130c24481f2b8ee5.gif"  alt="ashutosh mishra" height="30" width="100">
+<img src="https://cdn.dribbble.com/users/1889486/screenshots/5081642/media/033846767947e74e130c24481f2b8ee5.gif"  height="30" width="100">
