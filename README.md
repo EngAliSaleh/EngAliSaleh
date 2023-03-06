@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Aditya Kumar" width="100%" height="100%" style="max-width: 100%;">
+
 <h1 align="center">Hi 👋, I'm Eng.Ali Saleh</h1>
 <h3 align="center"> Web Front-End Developmer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
