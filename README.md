@@ -1,6 +1,9 @@
 <html>
   <head>
-    <style>
+   
+  </head>
+  <body>
+     <style>
       body {
   font-family: sans-serif;
   margin:0;
@@ -94,8 +97,6 @@
   background:white;
 }
     </style>
-  </head>
-  <body>
   <div class="nav-bar">
     <div class="nav-container">
       <a class="active" href="#welcome-section">Home</a>
