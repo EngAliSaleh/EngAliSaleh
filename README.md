@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eng.Ali Saleh</h1>
 <h3 align="center"> Web Front-End Developmer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" alt="Aditya Kumar" width="650" height="55" style="max-width: 100%;">
 
 - 🔭  currently working on [Freelance platforms](https://mostaql.com/u/Ali_Saleh9/portfolio)
 
