@@ -1,49 +1,7 @@
-<body>
-  <div class="nav-bar">
-    <div class="nav-container">
-      <a class="active" href="#welcome-section">Home</a>
-      <a href="#projects">Projects</a>
-      <a href="#contact">Contact</a>
-    </div>
-  </div>
-  <section id="welcome-section">
-    <div id="welcome-text">
-      <h1> Welcome to my Portfolio </h1>
-      <h4> a beginner web developer </h4>
-      <p> check out my githup <a id="profile-link" href="https://www.google.com" target="_blank">here</a></p>
-    </div>
-  </section>
-  <section id="projects">
-    <h2 id="projects-title"> Here are a few of my projects </h2>
-    <div class="tile-container">
-      <div id="project-tile">
-        <img src="https://picsum.photos/seed/picsum/200/250" alt="tile1" id="project-img" style="width:100%">
-        <div class="tiletext">
-          <p>Random project 1</p>
-        </div>
-      </div>
-      <div id="project-tile">
-        <img src="https://picsum.photos/id/1019/200/250" alt="tile1" id="project-img" style="width:100%">
-        <div class="tiletext">
-          <p>random project 2</p>
-        </div>
-      </div>
-      <div id="project-tile">
-        <img src="https://picsum.photos/id/237/200/250" alt="tile1" id="project-img" style="width:100%">
-        <div class="tiletext">
-          <p>random project 3</p>
-        </div>
-      </div>
-      <div id="project-tile">
-        <img src="https://picsum.photos/id/1025/200/250" alt="tile1" id="project-img" style="width:100%">
-        <div class="tiletext">
-          <p>random project 4</p>
-        </div>
-      </div>
-    </div>
-  </section>
-</body>
-body {
+<html>
+  <head>
+    <style>
+      body {
   font-family: sans-serif;
   margin:0;
   min-height:300vh;
@@ -135,3 +93,51 @@ body {
   grid-gap:40px;
   background:white;
 }
+    </style>
+  </head>
+  <body>
+  <div class="nav-bar">
+    <div class="nav-container">
+      <a class="active" href="#welcome-section">Home</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </div>
+  <section id="welcome-section">
+    <div id="welcome-text">
+      <h1> Welcome to my Portfolio </h1>
+      <h4> a beginner web developer </h4>
+      <p> check out my githup <a id="profile-link" href="https://www.google.com" target="_blank">here</a></p>
+    </div>
+  </section>
+  <section id="projects">
+    <h2 id="projects-title"> Here are a few of my projects </h2>
+    <div class="tile-container">
+      <div id="project-tile">
+        <img src="https://picsum.photos/seed/picsum/200/250" alt="tile1" id="project-img" style="width:100%">
+        <div class="tiletext">
+          <p>Random project 1</p>
+        </div>
+      </div>
+      <div id="project-tile">
+        <img src="https://picsum.photos/id/1019/200/250" alt="tile1" id="project-img" style="width:100%">
+        <div class="tiletext">
+          <p>random project 2</p>
+        </div>
+      </div>
+      <div id="project-tile">
+        <img src="https://picsum.photos/id/237/200/250" alt="tile1" id="project-img" style="width:100%">
+        <div class="tiletext">
+          <p>random project 3</p>
+        </div>
+      </div>
+      <div id="project-tile">
+        <img src="https://picsum.photos/id/1025/200/250" alt="tile1" id="project-img" style="width:100%">
+        <div class="tiletext">
+          <p>random project 4</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+  </html>
