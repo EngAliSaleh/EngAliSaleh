@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Aditya Kumar" width="100%" height="100%" style="max-width: 100%;">
-<img src="[(https://cloudfour.com/wp-content/uploads/2019/11/comet-r2.gif)](https://cloudfour.com/wp-content/uploads/2019/11/comet-r2.gif)width="100%" height="100%" style="max-width: 100%;"">
+<imgsrc="https://cloudfour.com/wp-content/uploads/2019/11/comet-r2.gif"  width="100%" height="100%" style="max-width: 100%;"  >
 
 
 
