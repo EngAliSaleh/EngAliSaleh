@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Eng.Ali Saleh</h1>
-<h3 align="center"> Web Front-End Developmer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭  currently working on [Freelance platforms](https://mostaql.com/u/Ali_Saleh9/portfolio)
