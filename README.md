@@ -6,10 +6,7 @@
 <h1 align="center">Hi 👋, I'm Eng.Ali Saleh</h1>
 <p align="center">
  
-<p align="center">
-  <a href="https://github.com/EngAliSaleh">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=2C9ACAE6&background=FFFFFF46&center=true&vCenter=true&width=435&height=56&lines=Web+Developer; FullStackWeb+Developer" alt="Typing SVG" /></a>
-</p>
+
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
