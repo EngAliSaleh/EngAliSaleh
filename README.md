@@ -7,7 +7,7 @@
 <p align="center">
  
 <p align="center">
-  <a href="https://github.com/Ahmed-sh98">
+  <a href="https://github.com/EngAliSaleh">
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=2C9ACAE6&background=FFFFFF46&center=true&vCenter=true&width=435&height=56&lines=Web+Developer;Front-End+Developer" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">Full Stack Web Developer</h3>
