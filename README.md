@@ -12,8 +12,9 @@
 </p>
 
 <h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Ahmed-sh98&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-sh98&layout=compact&theme=aura&langs_count=9" />
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=EngAliSaleh&count_private=true&show_icons=true&theme=tokyonight" />
+
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAliSaleh&layout=compact&theme=aura&langs_count=9" />
 
 <img height="150" />
 <br><br>
