@@ -10,7 +10,7 @@
   <a href="https://github.com/EngAliSaleh">
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=FF0000&background=FFFFFF46&center=true&vCenter=true&width=435&height=56&lines=Web+Developer;Fullstackweb+Developer" alt="Typing SVG" /></a>
 </p>
-<img align="right" height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAliSaleh&layout=compact&theme=aura&langs_count=9" />
+<img align="right" height="150px" width="354px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAliSaleh&layout=compact&theme=aura&langs_count=9" />
 
 <img height="150" />
 <br><br>
