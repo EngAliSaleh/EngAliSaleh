@@ -1,10 +1,18 @@
- h1 align="center">Hi 👋, I'm Eng.Ali Saleh</h1>
+
+   
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Aditya Kumar" width="100%" height="100%" style="max-width: 100%;">
+<imgsrc="https://cloudfour.com/wp-content/uploads/2019/11/comet-r2.gif"  width="100%" height="100%" style="max-width: 100%;"  >
+
+
+
+<h1 align="center">Hi 👋, I'm Eng.Ali Saleh</h1>
 <p align="center">
+ 
 <p align="center">
   <a href="https://github.com/EngAliSaleh">
-   
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=FF0000&background=FFFFFF46&center=true&vCenter=true&width=435&height=56&lines=Web+Developer;Fullstackweb+Developer" alt="Typing SVG" /></a>
 </p>
+
  
  
  
