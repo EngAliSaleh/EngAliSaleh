@@ -10,10 +10,6 @@
   <a href="https://github.com/EngAliSaleh">
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=FF0000&background=FFFFFF46&center=true&vCenter=true&width=435&height=56&lines=Web+Developer;Fullstackweb+Developer" alt="Typing SVG" /></a>
 </p>
-
-<h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=EngAliSaleh&count_private=true&show_icons=true&theme=tokyonight" />
-
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngAliSaleh&layout=compact&theme=aura&langs_count=9" />
 
 <img height="150" />
